@@ -6,15 +6,15 @@
     "file",
     "sharing"
   ],
-  "repository": "https://github.com/CodeXBotz/File-Sharing-Bot",
-  "logo": "https://telegra.ph/file/14d3013fda21281c54b61.jpg",
+  "repository": "https://github.com/Judson-web/File-Sharing-Bot",
+  "logo": "https://telegra.ph/file/fcc203629cd77c05cc1d5.png",
   "env": {
     "TG_BOT_TOKEN": {
       "description": "Your Bot token, Get it from @Botfather",
       "value": ""
     },
     "OWNER_ID": {
-      "description": "An integer of consisting of your owner ID",
+      "description": "An integer of consisting of your owner ID From @filer3_2021_bot By /help Command",
       "value": "1250450587"
     },
     "APP_ID":{
